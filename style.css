@@ -4,6 +4,20 @@
     margin: 0;
     padding: 0;
 }
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #8b8e91;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.btn:hover {
+  background-color: #45484b;
+}
 
 /* Root Variables */
 :root {
